@@ -7,7 +7,7 @@ __version__="0.0.0.0"
 
 REPO_NAME="Language-Translation-Project"
 AUTHOR_USER_NAME="GourangPatidar"
-SRC_REPO="lang-translation"
+SRC_REPO="LangTranslation"
 AUTHOR_EMAIL="gourangpatidar2003@gmailcom"
 
 
